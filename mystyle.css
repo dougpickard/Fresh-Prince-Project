@@ -1,0 +1,19 @@
+
+h1 {
+	color:red;
+}
+
+body{
+	background-color: azure;
+}
+
+p{
+	text-align: center;
+}
+
+a{
+	link:blue;
+	visited:red;
+	hover:green;
+	active:pink;
+}
